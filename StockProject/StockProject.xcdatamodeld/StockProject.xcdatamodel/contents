@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="17511" systemVersion="20B50" minimumToolsVersion="Automatic" sourceLanguage="Swift" userDefinedModelVersionIdentifier="">
+    <entity name="HistoricalStock" representedClassName="HistoricalStock" syncable="YES" codeGenerationType="class">
+        <attribute name="open" optional="YES" attributeType="Double" defaultValueString="0.0" usesScalarValueType="YES"/>
+    </entity>
+    <entity name="StockData" representedClassName="StockData" syncable="YES" codeGenerationType="class">
+        <attribute name="open" optional="YES" attributeType="Double" defaultValueString="0.0" usesScalarValueType="YES"/>
+    </entity>
+    <elements>
+        <element name="StockData" positionX="-63" positionY="-18" width="128" height="44"/>
+        <element name="HistoricalStock" positionX="-54" positionY="0" width="128" height="44"/>
+    </elements>
+</model>
